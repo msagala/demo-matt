@@ -7,6 +7,8 @@ import java.util.List;
 import org.lotto.codes.model.Person;
 
 public class Test {
+	
+	System.out.println("Matthew");
 
 	public static void main(String[] args) {
 		
