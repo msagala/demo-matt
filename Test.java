@@ -11,7 +11,7 @@ public class Test {
 	System.out.println("Matthew");
 
 	public static void main(String[] args) {
-	aasdasdasdasdasd	
+		
 	Person person1 = new Person();
 	person1.setName("Matthew");
 	person1.setGender("Male");
